@@ -1,0 +1,30 @@
+{
+  "name" : "jkphl/edropub",
+  "description" : "An Editorially → Dropbox → Leanpub editing and publishing workflow",
+  "require" : {
+    "php" : ">=5.3.0",
+    "dropbox/dropbox-sdk": "1.1.*"
+  },
+  "repositories" : [ {
+    "type" : "composer",
+    "url" : "https://packagist.org/"
+  }, {
+    "type" : "vcs",
+    "url" : "https://github.com/jkphl/edropub"
+  } ],
+  "authors" : [ {
+    "name" : "Joschi Kuphal",
+    "email" : "joschi@kuphal.net",
+    "homepage" : "http://jkphl.is",
+    "role" : "Developer"
+  } ],
+  "support" : {
+    "email" : "joschi@kuphal.net",
+    "issues" : "https://github.com/jkphl/edropub/issues",
+    "source" : "https://github.com/jkphl/edropub"
+  },
+  "keywords" : [ "editorially", "dropbox", "leanpub", "editor", "editing", "publishing", "ebook", "markdown" ],
+  "license" : "MIT",
+  "type" : "library",
+  "homepage" : "http://jkphl.is"
+}
