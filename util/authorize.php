@@ -47,7 +47,7 @@ try {
 		'editorially_prefix'		=> '/Apps/Editorially',
 		'leadpub_api_key'			=> '<YOUR_ACCOUNT_API_KEY>',
 		'leadpub_prefix'			=> '/<YOUR_BOOKS_SLUG>',
-		'if_modified'				=> 'preview',
+		'leanpub_trigger'			=> 'preview',
 	);
 	
 	if (array_key_exists('host', $appInfoJson)) {
