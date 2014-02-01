@@ -1,0 +1,29 @@
+{
+  "name": "edropub",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jkphl/edropub",
+  "description": "An Editorially . Dropbox . Leanpub editing and publishing workflow",
+  "main": "edropub.phps",
+  "keywords": [
+    "editorially",
+    "dropbox",
+    "leanpub",
+    "editor",
+    "editing",
+    "publishing",
+    "ebook",
+    "markdown"
+  ],
+  "authors": [
+    "Joschi Kuphal <joschi@kuphal.net>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "vendor"
+  ]
+}
