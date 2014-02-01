@@ -1,5 +1,17 @@
 <?php
 
+/**
+ * edropub – An Editorially → Dropbox → Leanpub editing and publishing workflow
+ * 
+ * Authorization setup
+ *
+ * @category	Jkphl
+ * @package		Jkphl_Edropub
+ * @author		Joschi Kuphal <joschi@kuphal.net> / @jkphl
+ * @copyright	Copyright © 2014 Joschi Kuphal <joschi@kuphal.net> / @jkphl
+ * @license		http://opensource.org/licenses/MIT	The MIT License (MIT)
+ */
+
 try {
 
 	// Make sure the script is run on the command line
